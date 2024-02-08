@@ -48,7 +48,7 @@
         "CHANNEL_CREATE_URI": "/channel/v3/create",
         "CHANNEL_UPDATE_URI": "/channel/v3/update",
 
-        "FRAMEWORK_URI": "/framework/v3/read",
+        "FRAMEWORK_URI": "/framework/v1/read",
         "FRAMEWORK_LIST_URI": "/framework/v3/list",
         "FRAMEWORK_CREATE_URI": "/framework/v3/create",
         "FRAMEWORK_UPDATE_URI": "/framework/v3/update",
